@@ -1,0 +1,8 @@
+
+--- baseline ---
+PASS: baseline; sync/async, exact match, original message, flags, timeout, fd
+mock transport async call: median 0.779 us/call (9 x 10000 calls)
+
+--- patched ---
+PASS: preloaded patch; sync/async, exact match, original message, flags, timeout, fd
+mock transport async call: median 1.169 us/call (9 x 10000 calls)

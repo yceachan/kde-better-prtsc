@@ -1,0 +1,7 @@
+Qt 6.2.4, platform xcb
+7f387791a000-7f387791d000 r--p 00000000 00:24 7946679                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
+7f387791d000-7f387791f000 r-xp 00003000 00:24 7946679                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
+7f387791f000-7f3877920000 r--p 00005000 00:24 7946679                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
+7f3877920000-7f3877921000 r--p 00005000 00:24 7946679                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
+7f3877921000-7f3877922000 rw-p 00006000 00:24 7946679                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so
+fcitx plugin loaded: no

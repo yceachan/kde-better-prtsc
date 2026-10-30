@@ -1,0 +1,149 @@
+QFactoryLoader::QFactoryLoader() checking directory path "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforms" ...
+QFactoryLoader::QFactoryLoader() looking at "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforms/libqwayland-generic.so"
+Found metadata in lib /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforms/libqwayland-generic.so, metadata=
+{
+    "IID": "org.qt-project.Qt.QPA.QPlatformIntegrationFactoryInterface.5.3",
+    "MetaData": {
+        "Keys": [
+            "wayland"
+        ]
+    },
+    "archreq": 0,
+    "className": "QWaylandIntegrationPlugin",
+    "debug": false,
+    "version": 393728
+}
+
+
+Got keys from plugin meta data QList("wayland")
+QFactoryLoader::QFactoryLoader() looking at "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforms/libqxcb.so"
+Found metadata in lib /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforms/libqxcb.so, metadata=
+{
+    "IID": "org.qt-project.Qt.QPA.QPlatformIntegrationFactoryInterface.5.3",
+    "MetaData": {
+        "Keys": [
+            "xcb"
+        ]
+    },
+    "archreq": 0,
+    "className": "QXcbIntegrationPlugin",
+    "debug": false,
+    "version": 393728
+}
+
+
+Got keys from plugin meta data QList("xcb")
+QFactoryLoader::QFactoryLoader() checking directory path "/tmp/kde-better-prtsc/bootstrap/platforms" ...
+loaded library "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforms/libqxcb.so"
+loaded library "Xcursor"
+QFactoryLoader::QFactoryLoader() checking directory path "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platformthemes" ...
+QFactoryLoader::QFactoryLoader() looking at "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platformthemes/libqt6ct.so"
+Found metadata in lib /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platformthemes/libqt6ct.so, metadata=
+{
+    "IID": "org.qt-project.Qt.QPA.QPlatformThemeFactoryInterface.5.1",
+    "MetaData": {
+        "Keys": [
+            "qt6ct",
+            "qt5ct"
+        ]
+    },
+    "archreq": 0,
+    "className": "Qt6CTPlatformThemePlugin",
+    "debug": false,
+    "version": 393728
+}
+
+
+Got keys from plugin meta data QList("qt6ct", "qt5ct")
+QFactoryLoader::QFactoryLoader() checking directory path "/tmp/kde-better-prtsc/bootstrap/platformthemes" ...
+QFactoryLoader::QFactoryLoader() checking directory path "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts" ...
+QFactoryLoader::QFactoryLoader() looking at "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so"
+Found metadata in lib /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so, metadata=
+{
+    "IID": "org.qt-project.Qt.QPlatformInputContextFactoryInterface.5.1",
+    "MetaData": {
+        "Keys": [
+            "compose",
+            "xim"
+        ]
+    },
+    "archreq": 0,
+    "className": "QComposePlatformInputContextPlugin",
+    "debug": false,
+    "version": 393728
+}
+
+
+Got keys from plugin meta data QList("compose", "xim")
+QFactoryLoader::QFactoryLoader() looking at "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so"
+Found metadata in lib /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so, metadata=
+{
+    "IID": "org.qt-project.Qt.QPlatformInputContextFactoryInterface.5.1",
+    "MetaData": {
+        "Keys": [
+            "fcitx",
+            "fcitx5"
+        ]
+    },
+    "archreq": 0,
+    "className": "QFcitx5PlatformInputContextPlugin",
+    "debug": false,
+    "version": 393728
+}
+
+
+Got keys from plugin meta data QList("fcitx", "fcitx5")
+QFactoryLoader::QFactoryLoader() looking at "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so"
+Found metadata in lib /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so, metadata=
+{
+    "IID": "org.qt-project.Qt.QPlatformInputContextFactoryInterface.5.1",
+    "MetaData": {
+        "Keys": [
+            "ibus"
+        ]
+    },
+    "archreq": 0,
+    "className": "QIbusPlatformInputContextPlugin",
+    "debug": false,
+    "version": 393728
+}
+
+
+Got keys from plugin meta data QList("ibus")
+QFactoryLoader::QFactoryLoader() checking directory path "/tmp/kde-better-prtsc/bootstrap/platforminputcontexts" ...
+loaded library "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so"
+QFactoryLoader::QFactoryLoader() checking directory path "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/styles" ...
+QFactoryLoader::QFactoryLoader() looking at "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/styles/libqt6ct-style.so"
+Found metadata in lib /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/styles/libqt6ct-style.so, metadata=
+{
+    "IID": "org.qt-project.Qt.QStyleFactoryInterface",
+    "MetaData": {
+        "Keys": [
+            "qt6ct-style",
+            "qt5ct-style"
+        ]
+    },
+    "archreq": 0,
+    "className": "Qt6CTStylePlugin",
+    "debug": false,
+    "version": 393728
+}
+
+
+Got keys from plugin meta data QList("qt6ct-style", "qt5ct-style")
+QFactoryLoader::QFactoryLoader() checking directory path "/tmp/kde-better-prtsc/bootstrap/styles" ...
+QFactoryLoader::QFactoryLoader() checking directory path "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/accessiblebridge" ...
+QFactoryLoader::QFactoryLoader() checking directory path "/tmp/kde-better-prtsc/bootstrap/accessiblebridge" ...
+QFactoryLoader::QFactoryLoader() checking directory path "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/accessible" ...
+QFactoryLoader::QFactoryLoader() checking directory path "/tmp/kde-better-prtsc/bootstrap/accessible" ...
+QLibraryPrivate::unload succeeded on "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so" (faked)
+QLibraryPrivate::unload succeeded on "/home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforms/libqxcb.so" (faked)
+QLibraryPrivate::unload succeeded on "Xcursor" (faked)
+Qt 6.2.4, platform xcb
+7f160267b000-7f16026d8000 r--p 00000000 00:24 7946680                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so
+7f16026d8000-7f1602799000 r-xp 0005d000 00:24 7946680                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so
+7f1602799000-7f16027f5000 r--p 0011e000 00:24 7946680                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so
+7f16027f5000-7f16027f6000 ---p 0017a000 00:24 7946680                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so
+7f16027f6000-7f16027f9000 r--p 0017a000 00:24 7946680                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so
+7f16027f9000-7f16027ff000 rw-p 0017d000 00:24 7946680                    /home/pi/work/gitrepo/kde-better-prtsc/.runtime/squashfs-root/usr/plugins/platforminputcontexts/libfcitx5platforminputcontextplugin.so
+fcitx plugin loaded: yes

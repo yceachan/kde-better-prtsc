@@ -1,0 +1,8 @@
+[0/1] Re-running CMake...
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pi/work/gitrepo/kde-better-prtsc/build
+[1/5] Linking CXX shared library libsnipaste-kwin.so
+[2/5] Linking CXX shared library libecho-transport.so
+[3/5] Building CXX object CMakeFiles/interposition-test.dir/tests/interposition.cpp.o
+[4/5] Linking CXX executable interposition-test

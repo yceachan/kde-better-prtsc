@@ -1,0 +1,18 @@
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pi/work/gitrepo/kde-better-prtsc/build
+[1/5] Linking CXX shared library libecho-transport.so
+[2/5] Linking CXX shared library libsnipaste-kwin.so
+[3/5] Linking CXX executable interposition-test
+[4/5] Building CXX object CMakeFiles/kwin-probe.dir/tests/kwin_probe.cpp.o
+[5/5] Linking CXX executable kwin-probe
+Test project /home/pi/work/gitrepo/kde-better-prtsc/build
+    Start 1: transport-baseline
+1/2 Test #1: transport-baseline ...............   Passed    0.03 sec
+    Start 2: transport-patched
+2/2 Test #2: transport-patched ................   Passed    0.02 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   0.05 sec
+Ready. After quitting the existing Snipaste, run: /home/pi/work/gitrepo/kde-better-prtsc/scripts/run-snipaste.sh

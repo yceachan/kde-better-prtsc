@@ -1,0 +1,6 @@
+/.deps/
+/.runtime/
+/build/
+/compile_commands.json
+/core
+/core.*

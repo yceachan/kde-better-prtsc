@@ -1,0 +1,6 @@
+Qt_6 {
+    global:
+        _ZNK15QDBusConnection4callERK12QDBusMessageN5QDBus8CallModeEi;
+        _ZNK15QDBusConnection9asyncCallERK12QDBusMessagei;
+    local: *;
+};

@@ -1,0 +1,9 @@
+Test project /home/pi/work/gitrepo/kde-better-prtsc/build
+    Start 1: transport-baseline
+1/2 Test #1: transport-baseline ...............   Passed    0.03 sec
+    Start 2: transport-patched
+2/2 Test #2: transport-patched ................   Passed    0.02 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   0.05 sec
